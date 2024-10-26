@@ -1,4 +1,11 @@
 ## Hi there 👋
+✨I am nsain25 aka Nandini. 
+
+✨I’m interested in a variety of fields like Data Science, Artificial Intelligence, Machine Learning, and Data Analytics. 
+
+✨I have built several projects and am currently working on some other projects as well.
+
+✨How to reach me: You can reach me at email: nandinisain497@gmail.com or via my LinkedIn [https://www.linkedin.com/in/nandini-sain-b1a112227/ ] 
 
 <!--
 **nsain25/nsain25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
